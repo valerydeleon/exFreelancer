@@ -1,0 +1,14 @@
+/*
+ * Estilos de tu proyecto
+ */
+
+body {
+ font-family:  'Montserrat', sans-serif;
+ font-weight: 700;
+ margin: 0 auto;
+ font-size: 20px;
+}
+
+.espacioEntreSecciones{
+    height: 100px;
+}
